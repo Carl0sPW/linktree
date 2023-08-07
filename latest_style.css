@@ -12,6 +12,10 @@ html {background-color:var(--bg-color); font-family: Karla, sans-serif; font-siz
 
 h5, h4, h3, h2, h1 {color:var(--font-hover-color); margin-bottom: 16px; text-align: center;  display:block; width:100%;}
 
+.sc-bdfBwQ eZNKTD {
+  border-radius: 50%;
+}
+
 @media (orientation: landscape) {
   html { display: flex; flex-direction: row; }
   p {background-color:var(--button-color); color:var(--font-color); font-weight: 550; line-height: 24px;

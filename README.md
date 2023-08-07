@@ -17,7 +17,7 @@
 * **links_latest.html**: The lastest version, the one that should be copied and tweaked into each version.
 
 ** Testing it**:
-  * Just go to [index.html](https://sebastiandres.github.io/linktree/index.html) or, if at the local repo, click on the file online_test.html.
+  * Just go to [index.html](https://carlospzw.github.io/linktree/index.html) or, if at the local repo, click on the file online_test.html.
 
 ** To do list**:
 * Center div
